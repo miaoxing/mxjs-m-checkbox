@@ -12,6 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@miaoxing/dev": "^7.0.1"
+    "@miaoxing/dev": "^7.0.1",
+    "@testing-library/react": "^11.2.6"
   }
 }

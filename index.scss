@@ -1,0 +1,23 @@
+// stylelint-disable-next-line selector-type-no-unknown
+checkbox {
+  // 未选中的 背景样式
+  .wx-checkbox-input {
+    border-radius: 50%;
+    width: 1.125rem;
+    height: 1.125rem;
+    // 去掉默认的右边空白
+    margin-right: 0;
+
+    // 选中后的 背景样式
+    &.wx-checkbox-input-checked {
+      border-color: var(--mx-colors-primary-500);
+      background: var(--mx-colors-primary-500);
+
+      // 选中后的 对勾样式
+      &::before {
+        font-size: 1.125rem;
+        color: #fff;
+      }
+    }
+  }
+}
