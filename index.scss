@@ -3,8 +3,9 @@ checkbox {
   // 未选中的 背景样式
   .wx-checkbox-input {
     border-radius: 50%;
-    width: 1.125rem;
-    height: 1.125rem;
+    // 和字体大小一样
+    width: var(--mx-fontSizes-lg);
+    height: var(--mx-fontSizes-lg);
     // 去掉默认的右边空白
     margin-right: 0;
 
@@ -15,7 +16,7 @@ checkbox {
 
       // 选中后的 对勾样式
       &::before {
-        font-size: 1.125rem;
+        font-size: var(--mx-fontSizes-lg);
         color: #fff;
       }
     }
