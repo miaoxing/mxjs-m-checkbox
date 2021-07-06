@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox Checkbox 1`] = `
+<div>
+  <taro-checkbox-core />
+</div>
+`;
+
+exports[`Checkbox CheckboxGroup 1`] = `
+<div>
+  <taro-checkbox-group-core />
+</div>
+`;
