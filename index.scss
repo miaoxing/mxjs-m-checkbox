@@ -3,7 +3,7 @@ checkbox {
   // 未选中的 背景样式
   .wx-checkbox-input {
     border-radius: 50%;
-    // 和字体大小一样
+    // 和字体大小一样(实际偏大)
     width: var(--mx-fontSizes-lg);
     height: var(--mx-fontSizes-lg);
     // 去掉默认的右边空白
@@ -19,6 +19,24 @@ checkbox {
         font-size: var(--mx-fontSizes-lg);
         color: #fff;
       }
+    }
+  }
+}
+
+// h5
+.taro-checkbox_checked {
+  border-radius: 50%;
+  // 加大点，和小程序差不多大
+  width: var(--mx-fontSizes-xl);
+  height: var(--mx-fontSizes-xl);
+
+  &:checked {
+    border-color: var(--mx-colors-primary-500);
+    background: var(--mx-colors-primary-500);
+
+    &::before {
+      font-size: var(--mx-fontSizes-xl);
+      color: #fff;
     }
   }
 }
