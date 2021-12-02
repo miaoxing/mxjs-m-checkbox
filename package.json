@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@tarojs/components": "^3.3.10",
-    "@fower/taro": "^1.16.0"
+    "@fower/taro": "^1.59.0"
   },
   "devDependencies": {
     "@miaoxing/dev": "^8.0.0",
