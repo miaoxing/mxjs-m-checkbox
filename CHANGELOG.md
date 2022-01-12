@@ -1,3 +1,25 @@
+## [0.1.2](https://github.com/miaoxing/mxjs-m-checkbox/compare/v0.1.1...v0.1.2) (2022-01-12)
+
+
+### Bug Fixes
+
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.59.0` ([d0cdf48](https://github.com/miaoxing/mxjs-m-checkbox/commit/d0cdf484e58809320a90d7c871dd7848b612f0d6))
+
+
+### Features
+
+* **taro:** 限制 taro 为 3.3.x，3.4 有 BREAKING CHANGES ([e3a7bce](https://github.com/miaoxing/mxjs-m-checkbox/commit/e3a7bcee28d9cbcf6e6e0e90221d269c08ba64c5))
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.61` ([1e1f611](https://github.com/miaoxing/mxjs-m-checkbox/commit/1e1f6110315a7ffc0009df56fc9de06919bc64ab))
+* 更新 taro 到 `^3.3.20` ([227f18f](https://github.com/miaoxing/mxjs-m-checkbox/commit/227f18fdceff80741014013f2371c60970128455))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [0.1.1](https://github.com/miaoxing/mxjs-m-checkbox/compare/v0.1.0...v0.1.1) (2021-10-28)
 
 
