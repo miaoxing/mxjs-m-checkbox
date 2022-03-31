@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-m-checkbox/compare/v0.1.3...v0.1.4) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([232cc0f](https://github.com/miaoxing/mxjs-m-checkbox/commit/232cc0f17751706867624edee5cdeb138460805b))
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-m-checkbox/compare/v0.1.2...v0.1.3) (2022-02-05)
 
 
