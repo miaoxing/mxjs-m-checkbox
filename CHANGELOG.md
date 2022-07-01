@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-m-checkbox/compare/v0.1.5...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([7e9f41c](https://github.com/miaoxing/mxjs-m-checkbox/commit/7e9f41c2d5a626a2cc6725e6afc8fc3ea9b21d0a))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.5](https://github.com/miaoxing/mxjs-m-checkbox/compare/v0.1.4...v0.1.5) (2022-06-01)
 
 
