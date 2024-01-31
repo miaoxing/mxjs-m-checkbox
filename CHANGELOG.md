@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-m-checkbox/compare/v1.1.6...v1.2.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([b99775d](https://github.com/miaoxing/mxjs-m-checkbox/commit/b99775df8aa92c80cc00173930dcb7ed963f0b89))
+
 ## [1.1.6](https://github.com/miaoxing/mxjs-m-checkbox/compare/v1.1.5...v1.1.6) (2024-01-08)
 
 
