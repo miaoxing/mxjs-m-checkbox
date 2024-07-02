@@ -1,3 +1,8 @@
 import './index.scss';
 
-export {Checkbox, CheckboxGroup} from '@fower/taro';
+import { Checkbox, CheckboxGroup } from '@fower/taro';
+
+export {
+  Checkbox,
+  CheckboxGroup,
+};
