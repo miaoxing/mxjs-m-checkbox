@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/m-checkbox",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -21,7 +21,7 @@
     "@fower/taro": "~1.75.0"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^9.1.1",
+    "@miaoxing/dev": "^9.1.2",
     "@testing-library/react": "^14",
     "react": ">=16.13.1",
     "react-dom": ">=16.13.1"

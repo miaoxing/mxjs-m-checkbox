@@ -1,3 +1,18 @@
+## [1.2.2](https://github.com/miaoxing/mxjs-m-checkbox/compare/v1.2.1...v1.2.2) (2024-07-31)
+
+
+### Bug Fixes
+
+* `export default from` 改为标准语法 ([005d67b](https://github.com/miaoxing/mxjs-m-checkbox/commit/005d67bad03f08802fb69009432d59ac31e33839))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.2.1](https://github.com/miaoxing/mxjs-m-checkbox/compare/v1.2.0...v1.2.1) (2024-03-31)
 
 
